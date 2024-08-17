@@ -1,0 +1,50 @@
+ body{
+            margin: 0;
+            padding: 0;
+            font-family: Arial sans-serif;
+            background-color: #ceeff2;
+        }
+        header, footer{
+            background-color: #395c60;
+            color: aliceblue;
+            text-align: center;
+            padding: 2px;
+        }
+
+        .navitem{
+            display: inline;
+            padding: 50px;
+        }
+
+        .navitem a {
+            text-decoration: none;
+            color: white;
+        }
+
+        .registerform{
+            width: max-content;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .employeetable{
+            text-align: center;
+        }
+
+        table{
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td{
+            border: 1px solid #395c60;
+            padding: 8px;
+        }
+
+        .contactus{
+            text-align: center;
+        }
+
+    </style>
